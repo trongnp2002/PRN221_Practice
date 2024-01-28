@@ -1,0 +1,14 @@
+D:\laptrinh\C#\luyen-tap\Database\Scanfold2\bin\Debug\net6.0\Scanfold2.deps.json
+D:\laptrinh\C#\luyen-tap\Database\Scanfold2\bin\Debug\net6.0\Scanfold2.dll
+D:\laptrinh\C#\luyen-tap\Database\Scanfold2\bin\Debug\net6.0\Scanfold2.pdb
+D:\laptrinh\C#\luyen-tap\Database\Scanfold2\obj\Debug\net6.0\Scanfold2.GeneratedMSBuildEditorConfig.editorconfig
+D:\laptrinh\C#\luyen-tap\Database\Scanfold2\obj\Debug\net6.0\Scanfold2.AssemblyInfoInputs.cache
+D:\laptrinh\C#\luyen-tap\Database\Scanfold2\obj\Debug\net6.0\Scanfold2.AssemblyInfo.cs
+D:\laptrinh\C#\luyen-tap\Database\Scanfold2\obj\Debug\net6.0\Scanfold2.csproj.CoreCompileInputs.cache
+D:\laptrinh\C#\luyen-tap\Database\Scanfold2\obj\Debug\net6.0\Scanfold2.dll
+D:\laptrinh\C#\luyen-tap\Database\Scanfold2\obj\Debug\net6.0\refint\Scanfold2.dll
+D:\laptrinh\C#\luyen-tap\Database\Scanfold2\obj\Debug\net6.0\Scanfold2.pdb
+D:\laptrinh\C#\luyen-tap\Database\Scanfold2\obj\Debug\net6.0\ref\Scanfold2.dll
+D:\laptrinh\C#\luyen-tap\Database\Scanfold2\bin\Debug\net6.0\Scanfold2.runtimeconfig.json
+D:\laptrinh\C#\luyen-tap\Database\Scanfold2\obj\Debug\net6.0\Scanfold2.csproj.AssemblyReference.cache
+D:\laptrinh\C#\luyen-tap\Database\Scanfold2\obj\Debug\net6.0\Scanfold2.genruntimeconfig.cache
